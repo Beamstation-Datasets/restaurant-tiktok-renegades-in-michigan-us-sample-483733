@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
   "config_name": "Restaurant TikTok Renegades in Michigan, US",
-  "export_job_id": "6d8dcd3e-40c3-453b-abbc-65ceb7421b10",
+  "export_job_id": "1e66d48e-c781-44d9-a747-122f5a0ed629",
   "github_org": "Beamstation-Datasets",
   "id_short": 483733,
   "location_name": "Michigan",
   "location_type": "state",
   "repo_name": "restaurant-tiktok-renegades-in-michigan-us-sample-483733",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/483733/beamstation_483733_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_pct": 9.62,
+  "sample_pct": 9.8,
   "sample_records": 5,
   "sample_sha256": "691fbd8339e9b9c09bba9a4f5e9dbe1d12bc3c48387b1f7ebcd4530325368eb7",
   "sample_size_bytes": 38092,
-  "total_records": 52,
-  "updated_at": "2026-04-08T06:26:48.976022+00:00"
+  "total_records": 51,
+  "updated_at": "2026-04-15T10:05:11.248898+00:00"
 }
