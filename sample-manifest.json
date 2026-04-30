@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2da6f4db-ef13-4278-b3f2-7a06d209da6c",
+  "export_job_id": "f2d3a114-bc22-464a-b279-62de03fd2d4d",
   "id_short": 483733,
-  "published_at": "2026-04-22T19:47:03Z",
+  "published_at": "2026-04-30T07:29:20Z",
   "repo_name": "restaurant-tiktok-renegades-in-michigan-us-sample-483733",
   "sample_asset_name": "beamstation_483733_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/483733/beamstation_483733_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "43bd148b9df1decfa74a8c1cd794101e1cf9b16422c4bdf816d30469f10905d8",
-  "sample_size_bytes": 29236,
-  "total_records": 37
+  "sample_records": 5,
+  "sample_sha256": "d9c2122a45fe7d8338b452b79a84c19463becb03e09f85fee06d734ac0fc1d5e",
+  "sample_size_bytes": 35510,
+  "total_records": 52
 }
